@@ -1,0 +1,328 @@
+{
+  "communities": {
+    "0": [
+      "concept_calico",
+      "concept_kubeadm",
+      "day26_readme",
+      "day26_task",
+      "day27_readme",
+      "day27_task",
+      "day29_task",
+      "day30_readme",
+      "day31_task",
+      "day34_readme",
+      "day34_task",
+      "day35_task",
+      "day36_task",
+      "day37_readme",
+      "day37_task",
+      "day38_readme",
+      "day38_task",
+      "day39_readme",
+      "day39_task",
+      "day40_readme",
+      "day40_task"
+    ],
+    "1": [
+      "40daysofkubernetes_challenge",
+      "concept_docker",
+      "day01_readme",
+      "day01_task",
+      "day02_readme",
+      "day02_task",
+      "day03_readme",
+      "day03_task",
+      "day28_readme",
+      "day42_readme"
+    ],
+    "2": [
+      "concept_kubernetes",
+      "day07_pod_yml",
+      "day07_readme",
+      "day08_readme",
+      "day18_readme",
+      "day29_readme",
+      "day31_readme",
+      "day32_readme",
+      "day35_readme"
+    ],
+    "3": [
+      "day10_readme",
+      "day11_readme",
+      "day12_readme",
+      "day13_readme",
+      "day16_readme",
+      "day19_readme",
+      "day20_readme",
+      "day21_readme",
+      "readme_cka_course"
+    ],
+    "4": [
+      "concept_kind_cluster",
+      "day06_readme",
+      "day06_task",
+      "day07_task",
+      "day08_deploy_yml",
+      "day08_rc_yml",
+      "day08_rs_yml",
+      "day08_task"
+    ],
+    "5": [
+      "day21_task",
+      "day22_readme",
+      "day23_readme",
+      "day24_readme",
+      "day25_readme"
+    ],
+    "6": [
+      "day33_deployment_yaml",
+      "day33_ingress_yaml",
+      "day33_readme",
+      "day33_service_yaml"
+    ],
+    "7": [
+      "concept_cka_exam",
+      "day33_task",
+      "day41_readme"
+    ],
+    "8": [
+      "config_kind_cluster",
+      "day09_readme",
+      "day10_task"
+    ],
+    "9": [
+      "day16_metricsserver_yaml",
+      "day16_task",
+      "day17_readme"
+    ],
+    "10": [
+      "day04_readme",
+      "day04_task"
+    ],
+    "11": [
+      "day05_readme",
+      "day05_task"
+    ],
+    "12": [
+      "day09_nodeport_yml",
+      "day09_task"
+    ],
+    "13": [
+      "day14_readme",
+      "day15_readme"
+    ],
+    "14": [
+      "day22_task",
+      "day23_task"
+    ],
+    "15": [
+      "day39_problem1",
+      "home_chris_code_projects_cka_2024_resources_day39_problem1_sh__entry"
+    ],
+    "16": [
+      "day39_problem2",
+      "home_chris_code_projects_cka_2024_resources_day39_problem2_sh__entry"
+    ],
+    "17": [
+      "flask_app",
+      "flask_app_hello_world"
+    ],
+    "18": [
+      "day11_task"
+    ],
+    "19": [
+      "day12_task"
+    ],
+    "20": [
+      "day13_task"
+    ],
+    "21": [
+      "day14_task"
+    ],
+    "22": [
+      "day15_task"
+    ],
+    "23": [
+      "day17_task"
+    ],
+    "24": [
+      "day18_task"
+    ],
+    "25": [
+      "day19_task"
+    ],
+    "26": [
+      "day20_task"
+    ],
+    "27": [
+      "day24_task"
+    ],
+    "28": [
+      "day25_task"
+    ],
+    "29": [
+      "day28_task"
+    ],
+    "30": [
+      "day30_task"
+    ],
+    "31": [
+      "day32_task"
+    ],
+    "32": [
+      "day33_requirements_txt"
+    ],
+    "33": [
+      "day36_readme"
+    ]
+  },
+  "cohesion": {
+    "0": 0.1,
+    "1": 0.24444444444444444,
+    "2": 0.2222222222222222,
+    "3": 0.2222222222222222,
+    "4": 0.25,
+    "5": 0.4,
+    "6": 0.8333333333333334,
+    "7": 0.6666666666666666,
+    "8": 0.6666666666666666,
+    "9": 0.6666666666666666,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0,
+    "29": 1.0,
+    "30": 1.0,
+    "31": 1.0,
+    "32": 1.0,
+    "33": 1.0
+  },
+  "gods": [
+    {
+      "id": "concept_kubernetes",
+      "label": "Kubernetes",
+      "degree": 43
+    },
+    {
+      "id": "readme_cka_course",
+      "label": "CKA 2024 Course README",
+      "degree": 32
+    },
+    {
+      "id": "day27_readme",
+      "label": "Day 27 Kubeadm Multi-Node Cluster README",
+      "degree": 13
+    },
+    {
+      "id": "concept_docker",
+      "label": "Docker",
+      "degree": 7
+    },
+    {
+      "id": "40daysofkubernetes_challenge",
+      "label": "#40daysofkubernetes Challenge",
+      "degree": 4
+    },
+    {
+      "id": "day06_readme",
+      "label": "Day 6 Install Kind Cluster README",
+      "degree": 4
+    },
+    {
+      "id": "day08_task",
+      "label": "Day 8 Task",
+      "degree": 4
+    },
+    {
+      "id": "day09_readme",
+      "label": "Day 9 Services README",
+      "degree": 4
+    },
+    {
+      "id": "day22_readme",
+      "label": "Day 22 Authentication Authorization README",
+      "degree": 4
+    },
+    {
+      "id": "day23_readme",
+      "label": "Day 23 RBAC README",
+      "degree": 4
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Day 20 SSL/TLS README",
+      "target": "Kubernetes",
+      "source_files": [
+        "Resources/Day20/readme.md",
+        "README.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "references",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities; peripheral node `Day 20 SSL/TLS README` unexpectedly reaches hub `Kubernetes`"
+    },
+    {
+      "source": "Day 30 DNS README",
+      "target": "Kubernetes",
+      "source_files": [
+        "Resources/Day30/readme.md",
+        "README.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "references",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities; peripheral node `Day 30 DNS README` unexpectedly reaches hub `Kubernetes`"
+    },
+    {
+      "source": "CKA 2024 Course README",
+      "target": "Day 4 README",
+      "source_files": [
+        "README.md",
+        "Resources/Day04/readme.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `Day 4 README` unexpectedly reaches hub `CKA 2024 Course README`"
+    },
+    {
+      "source": "CKA 2024 Course README",
+      "target": "Day 7 Pods README",
+      "source_files": [
+        "README.md",
+        "Resources/Day07/readme.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `Day 7 Pods README` unexpectedly reaches hub `CKA 2024 Course README`"
+    },
+    {
+      "source": "CKA 2024 Course README",
+      "target": "Day 8 ReplicaSets and Deployments README",
+      "source_files": [
+        "README.md",
+        "Resources/Day08/readme.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `Day 8 ReplicaSets and Deployments README` unexpectedly reaches hub `CKA 2024 Course README`"
+    }
+  ],
+  "tokens": {
+    "input": 52544,
+    "output": 14122
+  }
+}
